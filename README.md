@@ -11,6 +11,7 @@ Recipe: Hot Chocolate
 - 250 ml Milk
 - 70 g Cocoa powder
 - 2 ts sugar
+
 Calories:  190 cal
 Food group: Milk and dairy products
 Step 1: Pour the milk and warm or boil the milk
